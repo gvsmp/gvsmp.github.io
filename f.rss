@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Good Vibes SMP</title>
+        <link>https://gvsmp.net</link>
+        <description>Good Vibes SMP</description>
+        <lastBuildDate>Tue, 31 Jan 2023 14:47:34 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Good Vibes SMP</generator>
+        <atom:link href="https://gvsmp.net/f" rel="self" type="application/rss+xml"/>
+    </channel>
+</rss>
